@@ -11,5 +11,9 @@
 
 ### Install TypeScript :construction:
 1. Install [node.js](https://nodejs.org/en/) 
-2. run command: **npm install -g typescript**
-3. run command: **tsc -v** (Optionals, to check typescript version.)
+2. Run command: **npm install -g typescript**
+3. Run command: **tsc -v** (Optionals, to check typescript version.)
+
+### Compile .ts file :rocket:
+- Run command: **tsc [filename].ts** 
+- TypeScript will build .js file, so you can run .js file by node using command: **node [filename].js**
