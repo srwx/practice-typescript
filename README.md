@@ -17,3 +17,11 @@
 ### Compile .ts file :rocket:
 - Run command: **tsc [filename].ts** 
 - TypeScript will build .js file, so you can run .js file by node using command: **node [filename].js**
+
+### Summary in index.ts file with 6 topics :pushpin:
+1. Variable Declarations
+2. Variable Types
+3. Function
+4. Interface
+5. Class
+6. Class Access Modifiers
