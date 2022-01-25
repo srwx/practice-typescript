@@ -17,6 +17,7 @@
 ### Compile .ts file :rocket:
 - Run command: **tsc [filename].ts** 
 - TypeScript will build .js file, so you can run .js file by node using command: **node [filename].js**
+- (Options) You can automatically recompile .ts file to .js file using command: **tsc [filename].ts --watch**
 
 ### Summary in index.ts file with 6 topics :pushpin:
 1. Variable Declarations
